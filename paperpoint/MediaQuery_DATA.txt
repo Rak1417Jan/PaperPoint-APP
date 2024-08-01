@@ -1,0 +1,19 @@
+Talking about width :
+
+we wrote 20 as 0.05 times so , 
+we write 1 as 0.05/20 = 0.0025
+
+
+Talking about height:
+
+we wrote 50 as 0.08 times so , 
+we write 1 as 0.08/50 = 0.0016 
+
+FontSize : Context == width
+
+we wrote 40 as 0.09 times so,
+we write 1 as 0.09/40 = 0.00225 
+
+
+YAdav PAss:
+bbsmy2493
